@@ -1,3 +1,4 @@
+package ES02.ES_A;
 public class calcolatoreMCD {
     
     // Metodo statico per calcolare l'MCD

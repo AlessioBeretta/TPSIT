@@ -3,6 +3,7 @@
  * Implementare e richiamare dal mail il metodo calcolaMCD(int a, int b) per calcolare il MCD tra due numeri.
  */
 
+ package ES02.ES_A;
 import java.util.Scanner; 
 public class MCD {
     

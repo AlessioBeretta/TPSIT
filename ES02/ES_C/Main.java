@@ -1,7 +1,7 @@
 /* Beretta Alessio
  Scrivere un programma che letti come argomenti da linea di comando i tre coefficienti a, b, c di un'equazione di secondo grado, trovi le soluzioni.
  */
-package ES_C;
+package ES02.ES_C;
 
 import java.util.Scanner; 
 import java.lang.Math;  // Inserisco la libreria Math per facilitarmi con il calcolo della potenza e della radice

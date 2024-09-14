@@ -5,7 +5,7 @@
     il numero massimo e il numero minimo della sequenza. 
  */
 
-package ES_B;
+package ES02.ES_B;
 
 public class Main {
 
