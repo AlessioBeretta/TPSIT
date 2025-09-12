@@ -1,0 +1,29 @@
+h1,h2{
+    text-align: center; /* Centro */
+}
+body {
+  background-color: rgb(162, 164, 165); /* Colore di sfondo grigio */
+}
+p {
+    font-style: italic;             /* Corsivo */
+}
+td, th {
+border:1px solid #0a0a0a;
+padding:8px;
+}
+div.Immagine_prova {
+        color: black;
+        font-size: 24px; /* Grandezza del testo */
+    }
+    .Immagine_prova img {
+    border: 1px solid black;
+    padding: 0;
+    margin: 0;
+    }
+    .Testo_immagine {
+        font-size: 40px; /* Grandezza del testo */
+        color: black;
+        font-weight: bold; /* Colore del testo */
+        padding: 5px;
+        margin: 5px;
+    }
