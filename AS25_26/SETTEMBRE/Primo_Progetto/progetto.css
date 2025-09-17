@@ -20,7 +20,7 @@ div.Immagine_prova {
     padding: 0;
     margin: 0;
     }
-    .Testo_immagine {
+    .Immagine_prova p {
         font-size: 40px; /* Grandezza del testo */
         color: black;
         font-weight: bold; /* Colore del testo */
